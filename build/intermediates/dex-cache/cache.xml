@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_657db3fa16e76cb198f27ad03cbd1e7db61a1b5a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_b20033c491577de85253b86588c2fb5e769d9eb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_71210995498ec7a72b27229bcf0584d5bc413d90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_dc040b02437fed5bfc295c81370c63d200d82b6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_d30a2302ed8622023efe686d4ea54e3b859787e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_c9507473fc127ff2b8aafcde22bf04acf4ffa68d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_4132194cbf9e945028d31ce23a3e850fd8096e47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sawan Kumar Singh\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Sawan Kumar Singh\Downloads\m3-assignment-shapes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_a996f6586f24e1fa7045dcf2300bea5764f77ca6\classes.dex" />
+    </item>
+
+</items>
